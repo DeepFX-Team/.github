@@ -54,7 +54,8 @@
     - Run React front
         
         ```python
-        axiox start
+        npm install
+        npm start
         ```
         
     
