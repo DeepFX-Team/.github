@@ -1,5 +1,3 @@
-# README
-
 ## Project Intro.
 
 - This project is web site that provide Converting text to soundFX service
