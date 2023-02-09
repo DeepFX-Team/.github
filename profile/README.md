@@ -10,7 +10,7 @@
 
 ## Project Structure
 
-![Untitled](README%2015d763b2cca345c4a4847f759b9dcf9c/Untitled.png)
+![DeepFX_TechStacks drawio (2)](https://user-images.githubusercontent.com/74547868/217707984-b3949df0-262e-4409-acfc-83092953d704.png)
 
 ## How To Use
 
